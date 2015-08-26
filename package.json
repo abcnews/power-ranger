@@ -1,0 +1,23 @@
+{
+  "name": "power-ranger",
+  "version": "1.0.0",
+  "description": "Create arrays of anything at any length you please.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abcnews/power-ranger.git"
+  },
+  "keywords": [
+    "array",
+    "range"
+  ],
+  "author": "Simon Elvery <simon@elvery.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abcnews/power-ranger/issues"
+  },
+  "homepage": "https://github.com/abcnews/power-ranger#readme"
+}
